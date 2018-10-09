@@ -16,6 +16,9 @@ public class VersionControllTest {
      */
     public static void main(String[] args) {
         System.out.println("This is a test application.");
+        
+        System.out.println("This is second line");
+        
     }
     
 }
