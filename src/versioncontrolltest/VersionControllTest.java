@@ -19,6 +19,8 @@ public class VersionControllTest {
         
         System.out.println("This is second line");
         
+        System.out.println("This are some new changes!");
+        
     }
     
 }
