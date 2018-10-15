@@ -20,6 +20,8 @@ public class VersionControllTest {
         System.out.println("Second Commit");
         System.out.println("Hamro patro");
         System.out.println("This is second line");
+        System.out.println("Last changed");
+        
         
     }
     
