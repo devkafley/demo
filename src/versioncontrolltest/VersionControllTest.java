@@ -22,6 +22,7 @@ public class VersionControllTest {
         System.out.println("This is second line");
         System.out.println("Last changed");
         
+        System.out.println("This is the change made in new branch");
         
     }
     
